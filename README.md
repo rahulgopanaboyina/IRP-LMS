@@ -3,7 +3,7 @@
 ## Live Demo
 
 Visit the website:
-https://YOUR-USERNAME.github.io/irp-lms/
+https://rahulgopanaboyina.github.io/IRP-LMS/
 
 ## About the Project
 
