@@ -1,5 +1,10 @@
 # IRP LMS – Learning Management System
 
+## Live Demo
+
+Visit the website:
+https://YOUR-USERNAME.github.io/irp-lms/
+
 ## About the Project
 
 IRP LMS is a responsive Learning Management System website developed using HTML5 and CSS3. It provides a simple interface for learners to explore learning resources, watch video tutorials, and contact the support team.
